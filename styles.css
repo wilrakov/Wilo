@@ -1,0 +1,48 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: "JetBrains Mono", monospace;
+}
+
+/**
+
+Cette partie concerne le top, la partie tout en haut du site web avec le logo
+
+**/
+.top {
+    display: flex;
+    gap: 100px;
+    align-items: center;
+    background-color: #2b2b2b;
+    color: #6b7c8b;
+    padding-left: 10px;
+}
+.top label {
+    font-size: 20px;
+    color: gray;
+    margin: 0;
+}
+pre {
+    margin: 0;
+    padding: 0;
+}
+
+/**
+
+Cette partie s'occupe du menu
+
+**/
+.menu {
+    display: flex;
+    gap: 10px;
+    background-color: #6b7c8b;
+    padding: 5px 10px;
+}
+.menu a {
+    text-decoration: none;
+    color: #f9f9f9;
+    padding: 0 5px;
+}
+.menu a:hover {
+    background-color: #8a99a8;
+}
