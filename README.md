@@ -1,3 +1,9 @@
+```Text
+.-.-.-..-.,-.
+| | | || . <
+`-----'`-'`-'
+```
+
 # Wilo website
 Welcome on the Wilo website repository.
 
